@@ -25,11 +25,14 @@
         </div>
       </div>
     </header>
+<<<<<<< HEAD
+=======
     <div class="container">
       <%= yield %>
     <%= render 'layouts/shim' %>
   </head>
   <body>
+>>>>>>> a57382bf652cb7bde23423ea3858af661f72513a
     <%= render 'layouts/header' %>
     <div class="container">
       <%= yield %>
