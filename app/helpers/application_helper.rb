@@ -9,4 +9,8 @@ module ApplicationHelper
       "#{base_title} | #{page_title}"
     end
   end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> filling-in-layout
