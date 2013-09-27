@@ -6,6 +6,11 @@
     <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
     sample application.
   </h2>
+
+<<<<<<< HEAD
+=======
+  <%= link_to "Sign up now!", '#', class: "btn btn-large btn-primary" %>
+>>>>>>> a57382bf652cb7bde23423ea3858af661f72513a
   <%= link_to "Sign up now!", signup_path , class: "btn btn-large btn-primary" %>
 </div>
 
